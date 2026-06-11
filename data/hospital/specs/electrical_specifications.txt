@@ -1,0 +1,7 @@
+Conduit and wiring specification for Hospital: EMT conduit in exposed indoor areas, THHN copper conductors, labeled homeruns, NEC-compliant grounding, and updated as-built panel directories.
+
+- OR isolated power is supported by panel OR-ISO-1 with line isolation monitoring.
+- Generator GEN-EM1 backs emergency and critical circuits through ATS-1 and ATS-2.
+- The MRI requires a dedicated feeder from EQ-LP2 with isolated grounding requirements.
+- Change order CO-HOSP-004 adds backup power to the imaging wing including ATS tie-in and critical branch circuits.
+- Nurse call system emergency power is questioned in RFI-HOSP-033 and remains open pending owner direction.

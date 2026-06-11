@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "category": "panels",
+      "item_code": "PANEL_400A",
+      "quantity": 6,
+      "notes": "Critical, equipment, and normal power panels"
+    },
+    {
+      "category": "emergency lighting",
+      "item_code": "EM_LIGHT",
+      "quantity": 95,
+      "notes": "Life safety egress coverage"
+    },
+    {
+      "category": "conduit",
+      "item_code": "EMT_1",
+      "quantity": 6100,
+      "notes": "Hospital feeders and branch conduit"
+    },
+    {
+      "category": "wire",
+      "item_code": "THHN_10",
+      "quantity": 18800,
+      "notes": "Critical branch and equipment conductors"
+    },
+    {
+      "category": "fire alarm",
+      "item_code": "FA_DEVICE",
+      "quantity": 220,
+      "notes": "Life safety devices"
+    },
+    {
+      "category": "low voltage/data",
+      "item_code": "CAT6_DROP",
+      "quantity": 420,
+      "notes": "Nurse stations and patient rooms"
+    },
+    {
+      "category": "HVAC electrical",
+      "item_code": "HVAC_DISCONNECT",
+      "quantity": 38,
+      "notes": "Air handlers and medical exhaust"
+    },
+    {
+      "category": "devices/receptacles",
+      "item_code": "HOSP_RECEPT",
+      "quantity": 520,
+      "notes": "Hospital-grade receptacles"
+    }
+  ],
+  "assumptions": [
+    "Normal working hours",
+    "Local labor rate table",
+    "Synthetic MVP quantities for demo"
+  ],
+  "missing_data_warnings": [
+    "Final stamped drawings should be verified before bid submission"
+  ]
+}

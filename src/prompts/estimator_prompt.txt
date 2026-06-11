@@ -1,0 +1,1 @@
+Calculate material totals, labor hours, labor cost, assumptions, warnings, and category breakdowns from local catalog and quantity files.

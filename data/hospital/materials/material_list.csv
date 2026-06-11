@@ -1,0 +1,9 @@
+category,item_code,quantity,notes
+panels,PANEL_400A,6,Critical, equipment, and normal power panels
+emergency lighting,EM_LIGHT,95,Life safety egress coverage
+conduit,EMT_1,6100,Hospital feeders and branch conduit
+wire,THHN_10,18800,Critical branch and equipment conductors
+fire alarm,FA_DEVICE,220,Life safety devices
+low voltage/data,CAT6_DROP,420,Nurse stations and patient rooms
+HVAC electrical,HVAC_DISCONNECT,38,Air handlers and medical exhaust
+devices/receptacles,HOSP_RECEPT,520,Hospital-grade receptacles

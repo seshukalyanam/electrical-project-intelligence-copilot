@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "category": "panels",
+      "item_code": "PANEL_225A",
+      "quantity": 4,
+      "notes": "School distribution and lighting panels"
+    },
+    {
+      "category": "lighting fixtures",
+      "item_code": "LED_2X4",
+      "quantity": 188,
+      "notes": "Classroom and corridor fixtures"
+    },
+    {
+      "category": "emergency lighting",
+      "item_code": "EM_LIGHT",
+      "quantity": 42,
+      "notes": "EM-LP1 egress lighting"
+    },
+    {
+      "category": "conduit",
+      "item_code": "EMT_3_4",
+      "quantity": 4200,
+      "notes": "Branch conduit"
+    },
+    {
+      "category": "wire",
+      "item_code": "THHN_12",
+      "quantity": 12500,
+      "notes": "Branch circuit conductors"
+    },
+    {
+      "category": "low voltage/data",
+      "item_code": "CAT6_DROP",
+      "quantity": 260,
+      "notes": "Classroom and office drops"
+    },
+    {
+      "category": "fire alarm",
+      "item_code": "FA_DEVICE",
+      "quantity": 96,
+      "notes": "Pulls, strobes, horns, smoke devices"
+    },
+    {
+      "category": "HVAC electrical",
+      "item_code": "HVAC_DISCONNECT",
+      "quantity": 16,
+      "notes": "Rooftop and mechanical equipment"
+    }
+  ],
+  "assumptions": [
+    "Normal working hours",
+    "Local labor rate table",
+    "Synthetic MVP quantities for demo"
+  ],
+  "missing_data_warnings": [
+    "Final stamped drawings should be verified before bid submission"
+  ]
+}

@@ -1,0 +1,9 @@
+category,item_code,quantity,notes
+panels,PANEL_225A,4,School distribution and lighting panels
+lighting fixtures,LED_2X4,188,Classroom and corridor fixtures
+emergency lighting,EM_LIGHT,42,EM-LP1 egress lighting
+conduit,EMT_3_4,4200,Branch conduit
+wire,THHN_12,12500,Branch circuit conductors
+low voltage/data,CAT6_DROP,260,Classroom and office drops
+fire alarm,FA_DEVICE,96,Pulls, strobes, horns, smoke devices
+HVAC electrical,HVAC_DISCONNECT,16,Rooftop and mechanical equipment

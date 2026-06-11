@@ -1,0 +1,9 @@
+category,item_code,quantity,notes
+panels,PANEL_225A,3,Retail panels
+lighting fixtures,LED_2X4,96,Sales floor and support area lighting
+conduit,EMT_3_4,1900,Branch conduit
+wire,THHN_10,5200,Signage and refrigeration conductors
+low voltage/data,CAT6_DROP,54,POS and office drops
+HVAC electrical,HVAC_DISCONNECT,6,Rooftop HVAC disconnects
+refrigeration electrical,REFRIG_DISCONNECT,14,Cases, freezer, and condensing units
+signage circuits,SIGN_CIRCUIT,2,Exterior LED sign circuits

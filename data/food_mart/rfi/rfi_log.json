@@ -1,0 +1,14 @@
+[
+  {
+    "id": "RFI-FM-006",
+    "status": "Open",
+    "question": "Confirm dedicated circuit size for walk-in freezer.",
+    "answer": ""
+  },
+  {
+    "id": "RFI-FM-010",
+    "status": "Closed",
+    "question": "Confirm POS cabinet location.",
+    "answer": "Install LV-FM1 in office IT closet."
+  }
+]

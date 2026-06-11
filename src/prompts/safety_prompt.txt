@@ -1,0 +1,1 @@
+Safety reminder: verify all work against the latest stamped drawings, NEC, local code, lockout/tagout, and supervisor direction.

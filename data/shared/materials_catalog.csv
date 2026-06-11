@@ -1,0 +1,15 @@
+item_code,item_name,unit,unit_cost,labor_hours_per_unit
+PANEL_225A,225A lighting/power panel,each,1850,6.5
+PANEL_400A,400A distribution panel,each,4200,10.0
+LED_2X4,2x4 LED fixture,each,145,0.55
+EM_LIGHT,Emergency light/exit combo,each,118,0.8
+EMT_3_4,3/4 inch EMT conduit,ft,1.25,0.035
+EMT_1,1 inch EMT conduit,ft,1.95,0.045
+THHN_12,#12 THHN copper wire,ft,0.18,0.008
+THHN_10,#10 THHN copper wire,ft,0.31,0.01
+CAT6_DROP,CAT6 data drop,each,92,0.9
+FA_DEVICE,Fire alarm device,each,135,0.75
+HVAC_DISCONNECT,HVAC equipment disconnect,each,240,1.2
+HOSP_RECEPT,Hospital grade receptacle,each,36,0.22
+REFRIG_DISCONNECT,Refrigeration disconnect,each,260,1.4
+SIGN_CIRCUIT,Exterior sign circuit assembly,each,640,4.0

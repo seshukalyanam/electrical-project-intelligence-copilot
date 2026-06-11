@@ -1,0 +1,20 @@
+[
+  {
+    "id": "RFI-SCH-014",
+    "status": "Open",
+    "question": "Confirm ceiling device locations in library reading room.",
+    "answer": ""
+  },
+  {
+    "id": "RFI-SCH-021",
+    "status": "Open",
+    "question": "Clarify emergency lighting circuit homeruns for gym exits.",
+    "answer": ""
+  },
+  {
+    "id": "RFI-SCH-009",
+    "status": "Closed",
+    "question": "Confirm LP-3A spare breaker count.",
+    "answer": "Provide six 20A spares."
+  }
+]

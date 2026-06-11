@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "category": "panels",
+      "item_code": "PANEL_225A",
+      "quantity": 3,
+      "notes": "Retail panels"
+    },
+    {
+      "category": "lighting fixtures",
+      "item_code": "LED_2X4",
+      "quantity": 96,
+      "notes": "Sales floor and support area lighting"
+    },
+    {
+      "category": "conduit",
+      "item_code": "EMT_3_4",
+      "quantity": 1900,
+      "notes": "Branch conduit"
+    },
+    {
+      "category": "wire",
+      "item_code": "THHN_10",
+      "quantity": 5200,
+      "notes": "Signage and refrigeration conductors"
+    },
+    {
+      "category": "low voltage/data",
+      "item_code": "CAT6_DROP",
+      "quantity": 54,
+      "notes": "POS and office drops"
+    },
+    {
+      "category": "HVAC electrical",
+      "item_code": "HVAC_DISCONNECT",
+      "quantity": 6,
+      "notes": "Rooftop HVAC disconnects"
+    },
+    {
+      "category": "refrigeration electrical",
+      "item_code": "REFRIG_DISCONNECT",
+      "quantity": 14,
+      "notes": "Cases, freezer, and condensing units"
+    },
+    {
+      "category": "signage circuits",
+      "item_code": "SIGN_CIRCUIT",
+      "quantity": 2,
+      "notes": "Exterior LED sign circuits"
+    }
+  ],
+  "assumptions": [
+    "Normal working hours",
+    "Local labor rate table",
+    "Synthetic MVP quantities for demo"
+  ],
+  "missing_data_warnings": [
+    "Final stamped drawings should be verified before bid submission"
+  ]
+}

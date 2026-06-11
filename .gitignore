@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Streamlit local config/secrets
+.streamlit/secrets.toml
+
+# Generated local runtime data
+local_db/chat_logs/
+local_db/estimates/
+local_db/ingestion_logs/
+local_db/voice_transcripts/
+local_db/evaluation_results/
+
+# Generated vector index files
+local_vector_store/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

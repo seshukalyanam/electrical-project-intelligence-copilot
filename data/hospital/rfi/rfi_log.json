@@ -1,0 +1,20 @@
+[
+  {
+    "id": "RFI-HOSP-033",
+    "status": "Open",
+    "question": "Should the nurse call head-end be backed by emergency power?",
+    "answer": ""
+  },
+  {
+    "id": "RFI-HOSP-028",
+    "status": "Open",
+    "question": "Confirm isolated power receptacle count in OR-2.",
+    "answer": ""
+  },
+  {
+    "id": "RFI-HOSP-011",
+    "status": "Closed",
+    "question": "Confirm generator annunciator location.",
+    "answer": "Install at security desk."
+  }
+]

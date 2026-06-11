@@ -1,0 +1,6 @@
+Conduit and wiring specification for School: EMT conduit in exposed indoor areas, THHN copper conductors, labeled homeruns, NEC-compliant grounding, and updated as-built panel directories.
+
+- The 3rd floor HVAC system is served from panel MDP-SCH using feeder H3-42.
+- Emergency lighting is tied to EM-LP1 and covers stairwells, corridors, cafeteria exits, gym exits, and egress doors.
+- Data rooms are located on each floor and use low-voltage backbone conduit to the MDF.
+- Lighting revision CO-SCH-002 adds dimmable LED fixtures in the cafeteria and high-bay LED replacements in the gym.
